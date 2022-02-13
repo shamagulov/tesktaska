@@ -2,7 +2,7 @@
 public class Taska {
 
     public static String hello() {
-        return "Hello!";
+        return "12412415Hello!";
     }
 }
 
